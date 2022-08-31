@@ -12,6 +12,7 @@ Requirements:
 * Postgres RDS Database
 * ElastiCache for Redis
 * Autoscaling
+* Terraform
 
 Everything else is up to your preferences. Any Rails related configuration might be skipped (environment, security measurements, etc), but infrastructure related stuff like security groups and such should be a concern.
 
